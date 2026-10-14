@@ -30,8 +30,10 @@ During the international **Almaty Tech Cup 2025**, our 4-member squad executed a
 
 ### Team Presentation & Tournaments
 <p align="center">
-  <img src="team-photo1.jpg" width="48%" alt="Robotics Team Presentation" />
-  <img src="team-photo2.jpg" width="48%" alt="Almaty Tech Cup Team" />
+  <img width="1280" height="854" alt="image" src="https://github.com/user-attachments/assets/df1f6dc7-e323-4d91-9398-01b0fee348d3" />
+
+  <img width="4240" height="2384" alt="DSC00650" src="https://github.com/user-attachments/assets/10e1dcd4-c84c-4ee5-b6c2-7731bea75d8f" />
+
 </p>
 
 ### 📺 Tournament & R&D Video Logs
