@@ -45,12 +45,6 @@ During the international **Almaty Tech Cup 2025**, our 4-member squad executed a
   <i>🎬 Click above to watch the Almaty Tech Cup 2025 Live Stream match recording!</i>
 </p>
 
-#### 🎥 Robot Testing & Drive Training Shorts:
-* 🏎 **[TeleOp Mode Training](https://youtube.com)** — Real-time driver interaction and manipulator response tests.
-* 🧺 **[Autonomous Basket Mode](https://youtube.com)** — Algorithmic precision routine for score elements.
-* 🚀 **[Autonomous Chamber Route](https://youtube.com)** — Pre-programmed positioning and autonomous calibration.
-
----
 
 ## 🛠 Professional Robotics Experience
 
@@ -83,24 +77,18 @@ During the international **Almaty Tech Cup 2025**, our 4-member squad executed a
 * **Hardware Systems:** Prototyping, Actuator & Driver Integration, Sensor Networks (Arduino, STM32 platforms) ⚡️
 * **Workflow Tools:** Git, GitHub, Arduino IDE, Visual Studio Code, CAD Review 🛠
 
----
 
-## 📊 GitHub Analytics
-<p align="left">
-  <img src="https://vercel.app" alt="Mirsaid's GitHub Stats" height="180px" />
-  <img src="https://vercel.app" alt="Top Languages" height="180px" />
-</p>
-
----
 
 ## 🌐 Connect With Me 
 
 <p align="left"> 
   <a href="https://t.me/Messy_2210" target="_blank"> 
-    <img src="https://shields.io" alt="Telegram" /> 
+    <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/752e8742-5c8f-472a-b654-5772a726d1a1" />
+
   </a> 
   <a href="mailto:azimovmirsaid22@gmail.com"> 
-    <img src="https://shields.io" alt="Email" /> 
+    <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/551304a6-4279-4e4a-9a98-289208e3201f" />
+
   </a> 
 </p>
 
