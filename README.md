@@ -94,6 +94,7 @@ During the international **Almaty Tech Cup 2025**, our 4-member squad executed a
 ---
 
 ## 🌐 Connect With Me 
+
 <p align="left"> 
   <a href="https://t.me/Messy_2210" target="_blank"> 
     <img src="https://shields.io" alt="Telegram" /> 
@@ -102,6 +103,7 @@ During the international **Almaty Tech Cup 2025**, our 4-member squad executed a
     <img src="https://shields.io" alt="Email" /> 
   </a> 
 </p>
+
 
 
 ***Built as a team. Tested under pressure. Driven by robotics.*** 🤖
