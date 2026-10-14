@@ -36,13 +36,11 @@ During the international **Almaty Tech Cup 2025**, our 4-member squad executed a
 
 </p>
 
-### 📺 Tournament & R&D Video Logs
+### 📺 Team's portfolio
 <p align="center">
-  <a href="https://youtube.com" target="_blank">
-    <img src="https://youtube.com" width="60%" alt="Watch Almaty Tech Cup Live Stream" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.3);" />
+ [engineering portfolio.pdf (3).pdf](https://github.com/user-attachments/files/33451704/engineering.portfolio.pdf.3.pdf)
+
   </a>
-  <br>
-  <i>🎬 Click above to watch the Almaty Tech Cup 2025 Live Stream match recording!</i>
 </p>
 
 
