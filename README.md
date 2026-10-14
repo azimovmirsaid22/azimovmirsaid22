@@ -1,8 +1,9 @@
 <img width="1280" height="854" alt="image" src="https://github.com/user-attachments/assets/59d66b05-a833-4570-896c-7ee4970c68af" />
 
-Here is your updated **Robotics Engineering Experience** resume section enriched with engaging, professional emojis to highlight your achievements and technical skills:
+<img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/df6edcb5-ca6f-45dc-95a1-9a0842ae7337" />
 
----
+
+
 
 ## 🤖 Robotics Engineering Experience
 
