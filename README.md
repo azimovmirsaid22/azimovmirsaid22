@@ -71,9 +71,10 @@ During the international **Almaty Tech Cup 2025**, our 4-member squad executed a
 
 ### 💻 Languages & Frameworks
 <p align="left">
-  <img src="https://shields.io" alt="C++" />
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="Arduino" />
+  <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/3004ed0e-b087-4781-9261-402e02a38f5e" />
+
+  <img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/eadf24e5-9170-4c4f-b435-42da12884e99" />
+
 </p>
 
 
