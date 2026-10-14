@@ -45,7 +45,7 @@ Here is your updated **Robotics Engineering Experience** resume section enriched
 
 ### 💻 Technical Skills
 
-* **Languages:** `C/C++`, `Python` 👨‍💻
+* **Languages:** `C++ (Arduino)`, `Python` 👨‍💻
 * **Robotics & Automation:** Autonomous Systems, Control Systems, Robot Programming 🦾
 * **Embedded Systems:** Microcontrollers (Arduino/STM32), Sensor Integration, Motor Drivers ⚡
 * **Engineering & Hardware:** Robotics Design, Prototyping, Hardware/Software System Integration 📐
