@@ -1,3 +1,5 @@
+<img width="1280" height="854" alt="image" src="https://github.com/user-attachments/assets/59d66b05-a833-4570-896c-7ee4970c68af" />
+
 ## Robotics Engineering Experience
 
 ### Robotics & Embedded Systems
