@@ -98,7 +98,7 @@ During the international **Almaty Tech Cup 2025**, our 4-member squad executed a
   <a href="https://t.me/Messy_2210" target="_blank">
     <img src="https://shields.io" alt="Telegram" />
   </a>
-  <a href="mailto:azimovmirsaid22@gmail.com">
+  <a href="azimovmirsaid22@gmail.com">
     <img src="https://shields.io" alt="Email" />
   </a>
 </p>
