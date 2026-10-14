@@ -83,11 +83,11 @@ During the international **Almaty Tech Cup 2025**, our 4-member squad executed a
 
 <p align="left"> 
   <a href="https://t.me/Messy_2210" target="_blank"> 
-    <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/752e8742-5c8f-472a-b654-5772a726d1a1" />
+    <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/752e8742-5c8f-472a-b654-5772a726d1a1" />
 
   </a> 
   <a href="mailto:azimovmirsaid22@gmail.com"> 
-    <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/551304a6-4279-4e4a-9a98-289208e3201f" />
+    <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/551304a6-4279-4e4a-9a98-289208e3201f" />
 
   </a> 
 </p>
