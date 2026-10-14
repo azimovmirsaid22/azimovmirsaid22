@@ -71,9 +71,9 @@ During the international **Almaty Tech Cup 2025**, our 4-member squad executed a
 
 ### 💻 Languages & Frameworks
 <p align="left">
-  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/3004ed0e-b087-4781-9261-402e02a38f5e" />
+  <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/3004ed0e-b087-4781-9261-402e02a38f5e" />
 
-  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/eadf24e5-9170-4c4f-b435-42da12884e99" />
+  <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/eadf24e5-9170-4c4f-b435-42da12884e99" />
 
 </p>
 
