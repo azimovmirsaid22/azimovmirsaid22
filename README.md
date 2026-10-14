@@ -38,7 +38,7 @@ During the international **Almaty Tech Cup 2025**, our 4-member squad executed a
 
 ### 📺 Team's portfolio
 <p align="center">
- [engineering portfolio.pdf (3).pdf](https://github.com/user-attachments/files/33451704/engineering.portfolio.pdf.3.pdf)
+ https://github.com/user-attachments/files/33451704/engineering.portfolio.pdf
 
   </a>
 </p>
